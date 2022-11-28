@@ -13,9 +13,9 @@ namespace Test3
         [Test]
         public void ScoreTest()
         {
-            string win = "You Win.";
-            string lose = "You Lose.";
-            string tie = "You Tie.";
+            string win = "You Win";
+            string lose = "You Lose";
+            string tie = "You Tie";
             
             if(!jack.Score(10,19).Equals(lose)) Assert.Fail("1: There is a problem with your scoring method.");
             else if (!jack.Score(22, 22).Equals(lose)) Assert.Fail("2: There is a problem with your scoring method.");

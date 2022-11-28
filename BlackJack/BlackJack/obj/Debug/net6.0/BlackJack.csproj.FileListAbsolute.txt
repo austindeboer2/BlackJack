@@ -28,3 +28,18 @@ E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\Bl
 E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.pdb
 E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.genruntimeconfig.cache
 E:\OneDrive\OneDrive - Rockford Public Schools\Intro to Programming\Templates\BlackJack\BlackJack\obj\Debug\net6.0\ref\BlackJack.dll
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.csproj.AssemblyReference.cache
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfoInputs.cache
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.AssemblyInfo.cs
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.csproj.CoreCompileInputs.cache
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.dll
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\obj\Debug\net6.0\refint\BlackJack.dll
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.pdb
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.exe
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.deps.json
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.runtimeconfig.json
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.dll
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\bin\Debug\net6.0\BlackJack.pdb
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\obj\Debug\net6.0\BlackJack.genruntimeconfig.cache
+C:\Users\adeboer\Downloads\AustinDeBoerProjects5\BlackJack\BlackJack\BlackJack\obj\Debug\net6.0\ref\BlackJack.dll

@@ -17,7 +17,7 @@
      */
     public int NewCard()
     {
-
+        return 0;
     }
 
     /*
@@ -26,7 +26,7 @@
      */
     public int ComputerRound()
     {
-        
+        return 0;
     }
 
     public int PlayerRound()
@@ -70,7 +70,7 @@
      */
     public string Score(int player, int computer)
     {
-        
+        return "";
     }
 
     static void Main(string[] args)

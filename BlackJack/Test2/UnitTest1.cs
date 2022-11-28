@@ -22,10 +22,11 @@ namespace Test2
                 else bust++;
             }
             int total = bust + clean;
+
             float busted = (float)bust / (float)total;
 
-            if (busted > .36f && busted < .45f) Assert.Pass();
-            else Assert.Fail("There is a problem with the way you are giving the computer thier cards. Consult your ComputerRound method.");
+            if (busted > .28f && busted < .34f) Assert.Pass();
+            else Assert.Fail(busted + ": There is a problem with the way you are giving the computer thier cards. Consult your ComputerRound method.");
         }
     }
 }
